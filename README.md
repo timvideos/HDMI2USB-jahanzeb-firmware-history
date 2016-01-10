@@ -1,13 +1,15 @@
+# Use [HDMI2USB-misoc-firmware](https://github.com/timvideos/HDMI2USB-misoc-firmware)
 
-# Use https://github.com/timvideos/HDMI2USB
+**This firmware is obsolete and now read-only.**
 
-# Use https://github.com/timvideos/HDMI2USB
+This repository contains the unmodified history of the
+[HDMI2USB-jahanzeb-firmware](https://github.com/timvideos/HDMI2USB-jahanzeb-firmware)
+before the massive cleanup (large binaries where committed to the repo and
+hence the large size).
 
-# Use https://github.com/timvideos/HDMI2USB
+The Jahanzeb firmware has been replaced by the
+[HDMI2USB-misoc-firmware](https://github.com/timvideos/HDMI2USB-misoc-firmware).
 
----
+**This firmware is obsolete and now read-only.**
 
-This repo records the original history of the HDMI2USB code found at
-https://github.com/timvideos/HDMI2USB before the massive cleanup (large
-binaries where committed to the repo and hence the large size).
-
+# Use [HDMI2USB-misoc-firmware](https://github.com/timvideos/HDMI2USB-misoc-firmware)
